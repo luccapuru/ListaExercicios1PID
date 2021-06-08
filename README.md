@@ -1,1 +1,1 @@
-# Lista Exercicios de Processamento de Imagens Digitais
+# 1º Lista Exercicios de Processamento de Imagens Digitais
